@@ -4152,6 +4152,18 @@ mkdirp@^0.5.1, mkdirp@^0.5.3, mkdirp@^0.5.5, mkdirp@~0.5.1:
   dependencies:
     minimist "^1.2.5"
 
+monaco-editor-webpack-plugin@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/monaco-editor-webpack-plugin/-/monaco-editor-webpack-plugin-3.0.0.tgz#47a1c16e990d743572f47b0a1abb6de36bbc4afb"
+  integrity sha512-oPuYInTZIT5ctj8gjx7VEzxZFjcIBJXazVOaF6wJ/TPCldF0Lb/58jEeKTERXr4nr1Yobgx2tVfKcfkncAlAHg==
+  dependencies:
+    loader-utils "^2.0.0"
+
+monaco-editor@^0.22.3:
+  version "0.22.3"
+  resolved "https://registry.yarnpkg.com/monaco-editor/-/monaco-editor-0.22.3.tgz#69b42451d3116c6c08d9b8e052007ff891fd85d7"
+  integrity sha512-RM559z2CJbczZ3k2b+ouacMINkAYWwRit4/vs0g2X/lkYefDiu0k2GmgWjAuiIpQi+AqASPOKvXNmYc8KUSvVQ==
+
 move-concurrently@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/move-concurrently/-/move-concurrently-1.0.1.tgz#be2c005fda32e0b29af1f05d7c4b33214c701f92"
@@ -6339,6 +6351,11 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   resolved "https://registry.yarnpkg.com/tweetnacl/-/tweetnacl-0.14.5.tgz#5ae68177f192d4456269d108afa93ff8743f4f64"
   integrity sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=
 
+two.js@^0.7.1:
+  version "0.7.1"
+  resolved "https://registry.yarnpkg.com/two.js/-/two.js-0.7.1.tgz#b87f67d4bda3448e4f31984df56c0dac3940476d"
+  integrity sha512-fycJzwugOsnvmNygQEEOgirHD/Qb1H9hA0VO0zIfoxYlGRdP8D3iCzXo2D5pJaoaVmmdmgiP3XNVy45DjWUutQ==
+
 type-fest@^0.6.0:
   version "0.6.0"
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.6.0.tgz#8d2a2370d3df886eb5c90ada1c5bf6188acf838b"
@@ -6613,6 +6630,11 @@ vue@^2.6.11:
   version "2.6.12"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.12.tgz#f5ebd4fa6bd2869403e29a896aed4904456c9123"
   integrity sha512-uhmLFETqPPNyuLLbsKz6ioJ4q7AZHzD8ZVFNATNyICSZouqP2Sz0rotWQC8UNBF6VGSCs5abnKJoStA6JbCbfg==
+
+vuetify@^2.4.4:
+  version "2.4.4"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.4.4.tgz#529de23b6b0c65ccfd43fe11f0f3a8a0333e68e6"
+  integrity sha512-/4+xX9XbcwXBjrtptDxm5S4NXVaVGF8UJ3U7Nk20fl4aM84PGgGyqVCfi8hVa8t1gd+2Wz4FCztbR7JgJcBIQQ==
 
 vuex@^3.4.0:
   version "3.6.2"
